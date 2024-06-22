@@ -1,0 +1,11 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Test the button successfully > renders the button with success 1`] = `
+<div>
+  <button>
+    <strong>
+      Login
+    </strong>
+  </button>
+</div>
+`;
