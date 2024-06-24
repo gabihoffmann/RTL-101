@@ -1,0 +1,19 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Should  test login page successfully > Should render the login page correctly 1`] = `
+<div>
+  <div>
+    <h1>
+      Login Page
+    </h1>
+    <p>
+      Click button bellow to login
+    </p>
+    <button>
+      <strong>
+        Login
+      </strong>
+    </button>
+  </div>
+</div>
+`;
